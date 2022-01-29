@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @panzenberger
+- 👋 Hi, I’m Peter, @panzenberger
 - 👀 I’m interested in databases especially data science  
-- 🌱 I’m know python and currently learning R 
+- 🌱 I know python and currently learning R 
 - 💞️ I’m looking to collaborate on everything with data science and machine learning
 - 📫 How to reach me: via email p.anzenberger@htl-leonding.ac.at 
 
